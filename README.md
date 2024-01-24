@@ -11,6 +11,16 @@ Once both installed, make a folder which will contain the program, open the term
 git clone https://github.com/dogevroum/dayz_radio_discord_bot.git
 ```
 
+Then you need to install the discord.py library, run this command in the terminal
+```sh
+pip install discord
+```
+
+And then, to run the bot, go to "dayz_radio_discord_bot" folder and run
+```sh
+python bot.py
+```
+
 ## Troubleshooting
 
 If you have any trouble to use my program, simply contact me on Discord, my username is `dogevr`
